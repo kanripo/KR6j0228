@@ -1,23 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:19.070332
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:37
 #+TITLE: 觀自在大悲成就瑜伽蓮華部念誦法門
 #+PROPERTY: CBETA_ID T20n1030
 #+PROPERTY: ID KR6j0228
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1030
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0228_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1030¶
-
- 觀自在大悲成就瑜伽蓮華部念¶
+No. 1030¶
+觀自在大悲成就瑜伽蓮華部念¶
 誦法門一卷¶
 ¶
-開府儀同三司特進試鴻臚卿肅國¶
-公食邑三千戶賜紫贈司空諡大鑒¶
-正號大廣智大興善寺三藏沙門¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門¶
 不空奉　詔譯¶
 
 凡於此門中欲修習者。須知法式次第。若不¶
@@ -435,8 +432,8 @@ No.1030¶
 「　願我傳斯妙法門
 　遵修之者幸速成¶
 　用此微善周法界
-　三世利樂無窮盡
+　三世利樂無窮盡」
 #+END_VERSE
-」¶
+¶
 觀自在大悲成就瑜伽蓮花部念誦法門¶
 一卷
